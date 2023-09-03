@@ -40,7 +40,7 @@ Follow these steps to get started with the Telegram Background Remove Bot:
 ## Technologies Used
 
 - [Telegram Bot API](https://core.telegram.org/bots/api)
-- [Background Removal API](https://your-background-removal-api.com)
+- [Background Removal API](https://www.remove.bg/tools-api)
 
 ## Feedback and Issues
 
