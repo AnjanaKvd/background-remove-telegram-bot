@@ -32,8 +32,10 @@ Follow these steps to get started with the Telegram Background Remove Bot:
 
 ## Examples
 
-![Original Image](!https://github.com/AnjanaKvd/background-remove-telegram-bot/assets/109935293/beb3e8cb-269c-4886-8ede-58beb58dcd11)
-![Edited Image](![photo_2023-09-02_21-35-21](https://github.com/AnjanaKvd/background-remove-telegram-bot/assets/109935293/0c843fd5-b2e1-46e2-9d53-ea8ad7796384)
+#### Original Image
+<img src="https://github.com/AnjanaKvd/background-remove-telegram-bot/assets/109935293/beb3e8cb-269c-4886-8ede-58beb58dcd11" width="300px" height="200px"/><br/>
+#### Edited Image
+<img src="https://github.com/AnjanaKvd/background-remove-telegram-bot/assets/109935293/0c843fd5-b2e1-46e2-9d53-ea8ad7796384" width="300px" height="200px"/>
 
 ## Technologies Used
 
