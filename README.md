@@ -44,7 +44,7 @@ Follow these steps to get started with the Telegram Background Remove Bot:
 
 ## Feedback and Issues
 
-If you encounter any issues or have suggestions for improvements, please [open an issue](https://github.com/AnjanaKvd/telegram-background-remove-bot/issues).
+If you encounter any issues or have suggestions for improvements, please [open an issue](https://github.com/AnjanaKvd/background-remove-telegram-bot/issues).
 
 ## License
 
